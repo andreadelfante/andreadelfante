@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Software Engineer, perfectionist, and detail-oriented. <br>💻 I'm currently working as a Senior Software Engineer [@hlpy](https://www.linkedin.com/company/hlpy/)<br>🤝 I love giving my contribution to generate value, working with an eye for quality. <br>🌱 I am constantly looking for new challenges, thanks to that I can better expand my skills.
+🔭 I am a Software Engineer, perfectionist, and detail-oriented. <br>💻 I'm currently working as a Technical Project Manager [@hlpy](https://www.linkedin.com/company/hlpy/)<br>🤝 I love giving my contribution to generate value, working with an eye for quality. <br>🌱 I am constantly looking for new challenges, thanks to that I can better expand my skills.
 
 
 ## 🌐 Socials:
